@@ -1,0 +1,19 @@
+# rulesthatvalidnpmpackagenameshouldconformtopackagenamelengthshouldbegreaterthanzeroallthecharactersinthepackagenamemustbelowercasenouppercaseormixedcasenamesareallowedpackagenamecanconsistofhyphenspackagenamemustno
+
+If you wanna test the npm limits of package names. This is the longest name possible.
+
+## Usage
+
+To use this package, install it via npm:
+
+```bash
+npm install rulesthatvalidnpmpackagenameshouldconformtopackagenamelengthshouldbegreaterthanzeroallthecharactersinthepackagenamemustbelowercasenouppercaseormixedcasenamesareallowedpackagenamecanconsistofhyphenspackagenamemustno
+```
+
+Then, require it in your project:
+
+```javascript
+const getPackageName = require('rulesthatvalidnpmpackagenameshouldconformtopackagenamelengthshouldbegreaterthanzeroallthecharactersinthepackagenamemustbelowercasenouppercaseormixedcasenamesareallowedpackagenamecanconsistofhyphenspackagenamemustno');
+
+console.log(getPackageName());
+```

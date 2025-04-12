@@ -1,0 +1,5 @@
+function getPackageName() {
+    return "rulesthatvalidnpmpackagenameshouldconformtopackagenamelengthshouldbegreaterthanzeroallthecharactersinthepackagenamemustbelowercasenouppercaseormixedcasenamesareallowedpackagenamecanconsistofhyphenspackagenamemustno";
+}
+
+module.exports = getPackageName;

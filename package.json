@@ -1,0 +1,23 @@
+{
+  "name": "rulesthatvalidnpmpackagenameshouldconformtopackagenamelengthshouldbegreaterthanzeroallthecharactersinthepackagenamemustbelowercasenouppercaseormixedcasenamesareallowedpackagenamecanconsistofhyphenspackagenamemustno",
+  "version": "1.0.0",
+  "description": "This npm package has the longest possible name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/longest-npm-package.git"
+  },
+  "keywords": [
+    "longest-npm-name",
+    "longest-npm-package"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/longest-npm-package/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/longest-npm-package#readme"
+}
