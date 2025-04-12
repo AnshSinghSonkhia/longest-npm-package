@@ -1,6 +1,6 @@
 {
   "name": "rulesthatvalidnpmpackagenameshouldconformtopackagenamelengthshouldbegreaterthanzeroallthecharactersinthepackagenamemustbelowercasenouppercaseormixedcasenamesareallowedpackagenamecanconsistofhyphenspackagenamemustno",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This npm package has the longest possible name.",
   "main": "index.js",
   "scripts": {
